@@ -23,5 +23,4 @@ GUACAMOLE_PASSWORD=""
 
 ```
 ansible-playbook -i inventory.py main.yml
-
 ```

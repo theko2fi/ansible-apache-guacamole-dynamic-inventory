@@ -13,11 +13,11 @@ GUACAMOLE_URL="http://example.com/guacamole"
 GUACAMOLE_USER=""
 GUACAMOLE_PASSWORD=""
 ```
-  `GUACAMOLE_URL` is the url of your Apache Guacamole instance
-  `GUACAMOLE_USER` is your username
-  `GUACAMOLE_PASSWORD` is your password
-
-
+> Where:
+> * `GUACAMOLE_URL` is the url of your Apache Guacamole instance
+> * `GUACAMOLE_USER` is your username
+> * `GUACAMOLE_PASSWORD` is your password
+>
 
 ## Usage
 
